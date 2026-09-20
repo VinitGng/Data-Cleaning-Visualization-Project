@@ -102,11 +102,11 @@ After cleaning:
 
 An additional `Salary_Outlier` column was created to identify potential salary outliers.
 
+
 ## 📁 Project Files
 
 - `Data_Cleaning_Project.ipynb` – Jupyter Notebook containing the complete analysis
 - `cleaned_employee_data.xlsx` – Cleaned Excel dataset
-- `cleaned_employee_data.csv` – Cleaned CSV dataset
 - `README.md` – Project documentation
 
 ## ✅ Conclusion
